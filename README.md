@@ -1,13 +1,40 @@
-# Solarized Dark Syntax theme
+Lunarized 
+=========
+A fork of the Atom version of the famous [Solarized] theme—with a moonlit aura.
 
-Atom theme using the ever popular dark [solarized] colors.
+Design Decisions
+----------------
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_Syntax Themes_ dropdown menu.
+I love the harmonious blend of Solarized's accent colors and how well they all fit together.
+After all, the most important facet of a syntax theme is to be able to easily differentiate
+the different tokens in source code. And Solarized manages to achieve this while still
+looking beautiful.
 
-![](https://f.cloud.github.com/assets/136521/2327081/4c61f1aa-a3eb-11e3-9377-96d7837fa65a.png)
+However, the dark blue "in the shade of a tree" background (as well as the yellow
+morning-sun variant) break this neutrality. Lunarized fixes it by completely
+desaturating the base colors as well as lowering each of their brightnesses by 15%.
+Plain text has also been bumped from the base0 to base1 color to compensate.
 
-![](https://f.cloud.github.com/assets/136521/2327080/4c51a976-a3eb-11e3-8c0d-2fba5915bb26.png)
+Screenshots
+-----------
 
-[solarized]: http://ethanschoonover.com/solarized
+![](https://dl.dropboxusercontent.com/u/82187473/Screenshots/Lunarized-Zsh.png)
+
+![](https://dl.dropboxusercontent.com/u/82187473/Screenshots/Lunarized-CSS.png)
+
+![](https://dl.dropboxusercontent.com/u/82187473/Screenshots/Lunarized-Vim.png)
+
+Installation
+------------
+To get the Atom package:
+* Bring up Settings via `cmd-,`
+* Go to the Themes page
+* Search for Lunarized and install
+
+To get the Vim colorsheme:
+
+    cd ~/.vim/colors
+    curl -O https://raw.githubusercontent.com/aclissold/lunarized-syntax/master/lunarized.vim
+
+
+[Solarized]: http://ethanschoonover.com/solarized
