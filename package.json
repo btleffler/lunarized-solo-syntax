@@ -1,9 +1,9 @@
 {
-  "name": "solarized-dark-syntax",
+  "name": "lunarized-syntax",
   "theme": "syntax",
-  "version": "0.14.0",
-  "description": "A dark syntax theme using the solarized colors",
-  "repository": "https://github.com/atom/solarized-dark-syntax",
+  "version": "0.0.0",
+  "description": "Solarized After Dark",
+  "repository": "https://github.com/aclissold/lunarized-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
