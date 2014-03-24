@@ -1,4 +1,4 @@
-Lunarized 
+Lunarized
 =========
 A fork of the Atom version of the famous [Solarized] theme—with a moonlit aura.
 
@@ -26,15 +26,26 @@ Screenshots
 
 Installation
 ------------
-To get the Atom package:
+
+### To get the Atom package:
+
 * Bring up Settings via `cmd-,`
 * Go to the Themes page
 * Search for Lunarized and install
 
-To get the Vim colorsheme:
+### To get the Vim colorsheme:
 
+With [pathogen]:
+
+    cd ~/.vim/bundle
+    git clone https://github.com/aclissold/lunarized-syntax
+
+Without pathogen:
+
+    mkdir -p ~/.vim/colors
     cd ~/.vim/colors
     curl -O https://raw.githubusercontent.com/aclissold/lunarized-syntax/master/lunarized.vim
 
 
 [Solarized]: http://ethanschoonover.com/solarized
+[pathogen]: https://github.com/tpope/vim-pathogen
