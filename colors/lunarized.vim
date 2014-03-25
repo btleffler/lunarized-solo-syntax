@@ -54,7 +54,8 @@ hi Float guifg=#2aa198 guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE ct
 hi Number guifg=#2aa198 guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#2aa198 guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE cterm=NONE
 hi Operator guifg=#719e07 guibg=NONE guisp=NONE gui=NONE ctermfg=106 ctermbg=NONE cterm=NONE
-hi CursorLine guifg=#e2e4e5 guibg=#1a1a1a guisp=#1a1a1a gui=underline ctermfg=254 ctermbg=234 cterm=underline
+hi CursorLine guifg=NONE guibg=#1a1a1a guisp=#1a1a1a gui=underline ctermfg=NONE ctermbg=234 cterm=underline
+hi CursorLineNr guifg=#ffff5f guibg=#1a1a1a guisp=#1a1a1a gui=NONE ctermfg=227 ctermbg=234 cterm=NONE
 hi Union guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
 hi TabLineFill guifg=#6e6e6e guibg=#1a1a1a guisp=#1a1a1a gui=underline ctermfg=242 ctermbg=234 cterm=underline
 hi Question guifg=#2aa198 guibg=NONE guisp=NONE gui=bold ctermfg=37 ctermbg=NONE cterm=bold
