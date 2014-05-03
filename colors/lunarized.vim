@@ -69,7 +69,7 @@ hi Function guifg=#268bd2 guibg=NONE guisp=NONE gui=bold ctermfg=32 ctermbg=NONE
 hi FoldColumn guifg=#6e6e6e guibg=#1a1a1a guisp=#1a1a1a gui=NONE ctermfg=242 ctermbg=234 cterm=NONE
 hi PreProc guifg=#cb4b16 guibg=NONE guisp=NONE gui=NONE ctermfg=166 ctermbg=NONE cterm=NONE
 hi EnumerationName guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
-hi Visual guifg=NONE guibg=#4d4d4d guisp=#0f0f0f gui=NONE ctermfg=NONE ctermbg=239 cterm=NONE
+hi Visual guifg=NONE guibg=#dadada guisp=#0f0f0f gui=NONE ctermfg=NONE ctermbg=253 cterm=NONE
 hi MoreMsg guifg=#268bd2 guibg=NONE guisp=NONE gui=NONE ctermfg=32 ctermbg=NONE cterm=NONE
 hi SpellCap guifg=#e2e4e5 guibg=#ff6060 guisp=#ff6060 gui=NONE ctermfg=254 ctermbg=9 cterm=NONE
 hi VertSplit guifg=#5c5c5c guibg=#5c5c5c guisp=#5c5c5c gui=NONE ctermfg=59 ctermbg=59 cterm=NONE
