@@ -13,7 +13,7 @@ let g:colors_name = "lunarized"
 
 hi IncSearch guifg=#000000 guibg=#ffff5f guisp=#ffff5f gui=NONE ctermfg=NONE ctermbg=227 cterm=NONE
 hi WildMenu guifg=#c7c7c7 guibg=#1a1a1a guisp=#1a1a1a gui=NONE ctermfg=251 ctermbg=234 cterm=NONE
-hi SignColumn guifg=#4d4d4d guibg=#1a1a1a guisp=#1a1a1a gui=NONE ctermfg=239 ctermbg=234 cterm=NONE
+hi SignColumn guifg=#4d4d4d guibg=NONE guisp=#1a1a1a gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
 hi SpecialComment guifg=#dc322f guibg=NONE guisp=NONE gui=NONE ctermfg=160 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#b58900 guibg=NONE guisp=NONE gui=NONE ctermfg=136 ctermbg=NONE cterm=NONE
 hi Title guifg=#cb4b16 guibg=NONE guisp=NONE gui=bold ctermfg=166 ctermbg=NONE cterm=bold
@@ -36,9 +36,9 @@ hi Conditional guifg=#719e07 guibg=NONE guisp=NONE gui=NONE ctermfg=106 ctermbg=
 hi StorageClass guifg=#b58900 guibg=NONE guisp=NONE gui=NONE ctermfg=136 ctermbg=NONE cterm=NONE
 hi Todo guifg=#000000 guibg=#ffff5f guisp=#ffff5f gui=bold ctermfg=NONE ctermbg=227 cterm=bold
 hi Special guifg=#dc322f guibg=NONE guisp=NONE gui=NONE ctermfg=160 ctermbg=NONE cterm=NONE
-hi LineNr guifg=#4d4d4d guibg=#1a1a1a guisp=#1a1a1a gui=NONE ctermfg=239 ctermbg=234 cterm=NONE
+hi LineNr guifg=#4d4d4d guibg=NONE guisp=#1a1a1a gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#7a7a7a guibg=#1a1a1a guisp=#1a1a1a gui=bold ctermfg=243 ctermbg=234 cterm=bold
-hi Normal guifg=#7a7a7a guibg=#0f0f0f guisp=#0f0f0f gui=NONE ctermfg=243 ctermbg=233 cterm=NONE
+hi Normal guifg=#7a7a7a guibg=NONE guisp=#0f0f0f gui=NONE ctermfg=243 ctermbg=NONE cterm=NONE
 hi Label guifg=#719e07 guibg=NONE guisp=NONE gui=NONE ctermfg=106 ctermbg=NONE cterm=NONE
 hi CTagsImport guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
 hi PMenuSel guifg=#4d4d4d guibg=#c7c7c7 guisp=#c7c7c7 gui=NONE ctermfg=239 ctermbg=251 cterm=NONE
@@ -107,7 +107,7 @@ hi javascriptstrings guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ct
 hi htmlstring guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
 hi phpstringsingle guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
 
-hi GitGutterAdd guifg=#009900 guibg=#1a1a1a ctermfg=2 ctermbg=234
-hi GitGutterChange guifg=#bbbb00 guibg=#1a1a1a ctermfg=3 ctermbg=234
-hi GitGutterDelete guifg=#ff2222 guibg=#1a1a1a ctermfg=1 ctermbg=234
-hi GitGutterChangeDelete guifg=#bbbb00 guibg=#1a1a1a ctermfg=3 ctermbg=234
+hi GitGutterAdd guifg=#009900 guibg=#1a1a1a ctermfg=2 ctermbg=NONE
+hi GitGutterChange guifg=#bbbb00 guibg=#1a1a1a ctermfg=3 ctermbg=NONE
+hi GitGutterDelete guifg=#ff2222 guibg=#1a1a1a ctermfg=1 ctermbg=NONE
+hi GitGutterChangeDelete guifg=#bbbb00 guibg=#1a1a1a ctermfg=3 ctermbg=NONE
