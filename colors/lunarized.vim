@@ -100,7 +100,7 @@ hi DiffAdd guifg=#719e07 guibg=#1a1a1a guisp=#1a1a1a gui=bold ctermfg=106 ctermb
 hi TabLine guifg=#6e6e6e guibg=#1a1a1a guisp=#1a1a1a gui=underline ctermfg=242 ctermbg=234 cterm=underline
 hi cursorim guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 ctermbg=60 cterm=NONE
 "hi clear -- no settings --
-hi pythonbuiltin guifg=#7a7a7a guibg=#0f0f0f guisp=#0f0f0f gui=NONE ctermfg=243 ctermbg=233 cterm=NONE
+hi pythonbuiltin guifg=#7a7a7a guibg=#1a1a1a guisp=#0f0f0f gui=NONE ctermfg=243 ctermbg=NONE cterm=NONE
 hi phpstringdouble guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
 hi htmltagname guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
 hi javascriptstrings guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
