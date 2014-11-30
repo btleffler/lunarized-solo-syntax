@@ -15,15 +15,6 @@ morning-sun variant) break this neutrality. Lunarized fixes it by completely
 desaturating the base colors as well as lowering each of their brightnesses by 15%.
 Plain text has also been bumped from the base0 to base1 color to compensate.
 
-Screenshots
------------
-
-![](https://dl.dropboxusercontent.com/u/82187473/Screenshots/Lunarized-Zsh.png)
-
-![](https://dl.dropboxusercontent.com/u/82187473/Screenshots/Lunarized-CSS.png)
-
-![](https://dl.dropboxusercontent.com/u/82187473/Screenshots/Lunarized-Vim.png)
-
 Installation
 ------------
 
@@ -46,6 +37,11 @@ Without pathogen:
     cd ~/.vim/colors
     curl -O https://raw.githubusercontent.com/aclissold/lunarized-syntax/master/lunarized.vim
 
+Screenshots
+-----------
+
+![Atom Screenshot](https://cloud.githubusercontent.com/assets/4397642/5238939/34d4b03c-789c-11e4-9aee-7184b902f848.png)
+![Vim Screenshot](https://cloud.githubusercontent.com/assets/4397642/5238940/3729b8aa-789c-11e4-9ebb-b161cbcee591.png)
 
 [Solarized]: http://ethanschoonover.com/solarized
 [pathogen]: https://github.com/tpope/vim-pathogen
