@@ -24,24 +24,9 @@ Installation
 * Go to the Themes page
 * Search for Lunarized and install
 
-### To get the Vim colorsheme:
-
-With [pathogen]:
-
-    cd ~/.vim/bundle
-    git clone https://github.com/aclissold/lunarized-syntax
-
-Without pathogen:
-
-    mkdir -p ~/.vim/colors
-    cd ~/.vim/colors
-    curl -O https://raw.githubusercontent.com/aclissold/lunarized-syntax/master/lunarized.vim
-
 Screenshots
 -----------
 
 ![Atom Screenshot](https://cloud.githubusercontent.com/assets/4397642/5238939/34d4b03c-789c-11e4-9aee-7184b902f848.png)
-![Vim Screenshot](https://cloud.githubusercontent.com/assets/4397642/5238940/3729b8aa-789c-11e4-9ebb-b161cbcee591.png)
 
 [Solarized]: http://ethanschoonover.com/solarized
-[pathogen]: https://github.com/tpope/vim-pathogen
