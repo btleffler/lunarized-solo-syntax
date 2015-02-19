@@ -1,9 +1,9 @@
 {
-  "name": "lunarized-syntax",
+  "name": "lunarized-solo-syntax",
   "theme": "syntax",
   "version": "0.3.0",
-  "description": "Solarized After Dark",
-  "repository": "https://github.com/aclissold/lunarized-syntax",
+  "description": "Solarized After Dark, but still Blue",
+  "repository": "https://github.com/btleffler/lunarized-solo-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
