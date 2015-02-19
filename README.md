@@ -21,7 +21,7 @@ Installation
 Screenshots
 -----------
 
-![Atom Screenshot](https://cloud.githubusercontent.com/assets/4397642/5238939/34d4b03c-789c-11e4-9aee-7184b902f848.png)
+[![Atom Screenshot](https://i.imgur.com/11yfWizh.png)](http://i.imgur.com/11yfWiz.png)
 
 [Solarized]: http://ethanschoonover.com/solarized
 [Lunarized]: https://github.com/aclissold/lunarized-syntax
