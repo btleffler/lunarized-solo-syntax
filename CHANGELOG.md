@@ -1,3 +1,6 @@
+## 0.4.1
+ * Quick fix revert from merge for bracket matching syntax color
+
 ## 0.4.0
  * Merge changes from upstream
 
