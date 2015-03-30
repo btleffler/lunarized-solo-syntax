@@ -1,3 +1,6 @@
+## 0.4.0
+ * Merge changes from upstream
+
 ## 0.2.0
  * Make the background slightly brighter
 
