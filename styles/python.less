@@ -1,6 +1,6 @@
 .source.python {
   .entity {
-    color: @base0;
+    color: @syntax-text-color;
 
     &.name {
       color: @blue;
@@ -23,7 +23,7 @@
   }
   .keyword {
     &.operator {
-      color: @base0;
+      color: @syntax-text-color;
       &.quantifier {
         color: @cyan;
       }
@@ -35,10 +35,7 @@
       color: @orange;
     }
     &.other {
-      color: @blue;
-      &.python {
-        color: @green;
-      }
+      color: @green;
     }
   }
   .constant {
@@ -57,7 +54,7 @@
     color: @blue;
   }
   .variable {
-    color: @base0;
+    color: @syntax-text-color;
   }
   .support {
     &.function.builtin {
@@ -88,6 +85,10 @@
   }
 
   .punctuation.definition.parameters {
+    color: @syntax-text-color;
+  }
+
+  .punctuation.section.function.begin {
     color: @syntax-text-color;
   }
 
