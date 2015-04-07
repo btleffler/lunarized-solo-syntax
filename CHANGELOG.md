@@ -1,3 +1,6 @@
+## 0.4.3
+ * New build, didn't mean to publish 0.5.0...
+
 ## 0.4.2
  * Atom-Dark-UI has been updated to be better with contrast, so I'm reverting background colors back to their original darker versions.
 
